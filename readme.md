@@ -4,7 +4,7 @@
 
 ## I'm a 30 years old guy, that wanna be a frontend developer
 
-- 🌱 Currently im trying to catch up 🤣
+- 🌱 Currently trying to catch up 🤣
 - 👯 I would love to get some experience and colaborate with other people
 - 🥅 2021 goal: Find a job and make my dream come true
 - ⚡ Something u might not know about me: For the past 10 years I've been working in gastronomy
@@ -16,7 +16,7 @@
 
 ### Languages and Tools Im trying to master :):
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
